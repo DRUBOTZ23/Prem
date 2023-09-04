@@ -14,4 +14,5 @@ $ pkg install python-pip
 $ git clone https://github.com/gusty-xd/Prem
 $ cd Prem
 $ python simple.py
+$ python asu_enc_enc.py
 ```
