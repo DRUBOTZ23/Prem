@@ -13,7 +13,7 @@ $ pkg install python -y
 $ pkg install python-pip
 $ git clone https://github.com/gusty-xd/Prem
 $ cd Prem
-$ python simple_enc.py
+$ python sbf_enc_enc.py
 
 
 Cara LOGIN MENGGUNAKAN COOKIE+A2F
